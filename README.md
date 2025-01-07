@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhumathi</h1>
-<h3 align="center">A student at VNRVJIET </h3>
+<h3 align="center">A student at VNRVJIET from INDIA</h3>
 
 - 🔭 I’m currently working on **DATASCIENCE PROJECTS**
 
