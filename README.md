@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhumathi</h1>
-<h3 align="center">A student at GIOE from India</h3>
+<h3 align="center">A student at VNRVJIET </h3>
 
-- 🔭 I’m currently working on **Typing speed test**
+- 🔭 I’m currently working on **DATASCIENCE PROJECTS**
 
 - 🌱 I’m currently learning **python and java**
 
