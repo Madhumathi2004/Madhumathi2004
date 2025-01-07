@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DATASCIENCE PROJECTS**
 
-- 🌱 I’m currently learning **python and java**
+- 🌱 I’m currently learning **Artificial intelligence and Machine learning**
 
 - 💬 Ask me about **programming languages**
 
